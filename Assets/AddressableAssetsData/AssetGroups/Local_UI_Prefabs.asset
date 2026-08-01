@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local_UI_Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Local_UI_Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6b2849e68b94e1d4e9f1dc5547ad9084
+  m_SerializeEntries:
+  - m_GUID: 09914a1ce410cfc40a8a38179ad84369
+    m_Address: Prefab/Panel/AdPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cd1498f2ead5714cbbadce4094537ec
+    m_Address: Prefab/Panel/OrderListPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 182f40027dbf14747829102473007ce5
+    m_Address: Prefab/Panel/MergeBoardPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 314e367388134c94dbb2517012544c63
+    m_Address: Prefab/Panel/UIBoardOrderPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 317062c2bd3bdc14689adfee5f1ecfb1
+    m_Address: Prefab/Panel/OrderCard
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7843dec48d87d18429913f9af3ffbb22
+    m_Address: Prefab/Order/DetailPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0b8415681f8e7248a1ec973201d17de
+    m_Address: Prefab/Panel/resultsPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e63a41ac94b8c8f46a9928c1e394613b
+    m_Address: Prefab/Panel/RepairPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f898d1ace59f2f342ab335262babf9ac
+    m_Address: Prefab/Panel/TipPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ffaf10cb238af9d4796647b9f913ef74
+    m_Address: Prefab/Panel/HintPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d2defd24db938524884c1d590bc8a96d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 35a0eb6806ee32b4983b6fcbf5b1b334, type: 2}
+    - {fileID: 11400000, guid: ede8b90ed2d16704390a88783db47ee0, type: 2}

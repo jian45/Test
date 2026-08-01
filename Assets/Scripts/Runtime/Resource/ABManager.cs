@@ -279,6 +279,24 @@ public sealed class ABManager : MonoBehaviour
             onFailed));
     }
 
+    /// <summary>
+    /// 以指定父节点异步实例化 Prefab
+    /// </summary>
+    public Coroutine InstantiatePrefab(
+        string address,
+        Transform parent,
+        bool instantiateInWorldSpace,
+        Action<GameObject> onSuccess,
+        Action<string> onFailed = null)
+    {
+        return StartCoroutine(InstantiatePrefabRoutine(
+            address,
+            parent,
+            onSuccess,
+            onFailed,
+            instantiateInWorldSpace));
+    }
+
     
     /// <summary>
     /// 通过指定坐标和旋转实例化 Prefab

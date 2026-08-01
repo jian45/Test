@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 433d7c8110708c948898fa81ebee1130, type: 3}
+  m_Name: CatTableData
+  m_EditorClassIdentifier: 
+  DataList:
+  - id: 1
+    uid: cat_001_tabby
+    name: "\u521D\u59CB\u72F8\u82B1\u732B"
+    speed: 200
+    intimacy: 0
+    description: 
+    bodyAddress: Prefab/Cat/Blackcat
+    headIcon: {fileID: 0}

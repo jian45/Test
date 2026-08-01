@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local_Gameplay_Prefabs
+  m_EditorClassIdentifier: 
+  m_GroupName: Local_Gameplay_Prefabs
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 344f577e369b1b346b8dc25160950664
+  m_SerializeEntries:
+  - m_GUID: 02915a6e135b43043bebfcc884759722
+    m_Address: Prefab/Drink/Lv1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bab993bf90461d468a1aac740c56ace
+    m_Address: Assets/GameRes/AddressableAssets/Scene/Bootstrap.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - scene
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4684330727fe8ae4fa7d259e12befe1c
+    m_Address: Prefab/Cat/BlueCat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4bd53f9f1515df74aaba61f8589b8a7e
+    m_Address: Prefab/Coin/coin
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c97d78beaeabc9489fbbeabd230ba12
+    m_Address: Prefab/Cat/Blackcat
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 624e2abcdd6da0840b138882035bf6aa
+    m_Address: Prefab/Order/Item_OrderSlot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6bc5b183642b0724d996d6eaa33ce13a
+    m_Address: Prefab/Drink/Lv3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 972aeb17d45382c45b988ab62449eed4
+    m_Address: Prefab/Ornament/pendantLamp
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e8d4f6b55b09334c8a845db3d96b7ad
+    m_Address: Prefab/Ornament/cafesign
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a44df89ae16cb2746991f1235819ad52
+    m_Address: Prefab/Panel/UIOrderPanel
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - p0
+    - ui
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be3e1232b795fff4791c1ad2597016a4
+    m_Address: Prefab/Ornament/catbowl
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6cd3597b1e0ed8469615187a5a86165
+    m_Address: Prefab/Drink/Lv2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: edaa378b750c97f41a351e7a632efa04
+    m_Address: SpriteAtlas/New Sprite Atlas
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f3d40d9bfb23d084382b0d7e36125eed
+    m_Address: Prefab/Customer/customer1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gameplay
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d2defd24db938524884c1d590bc8a96d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: aeb66a5652aa07e4eb89a698fbe941f0, type: 2}
+    - {fileID: 11400000, guid: 7f58fed93c774104285ceaaaa5b51e71, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5d52ee57c1f9aa47a3d81d786a2266e, type: 3}
+  m_Name: RewardTableData
+  m_EditorClassIdentifier: 
+  DataList:
+  - RewardId: 1
+    RewardCatCoin: 10
+    RewardHeart: 1
+    RewardMaterial: 2
+  - RewardId: 2
+    RewardCatCoin: 18
+    RewardHeart: 2
+    RewardMaterial: 3
+  - RewardId: 3
+    RewardCatCoin: 20
+    RewardHeart: 2
+    RewardMaterial: 4

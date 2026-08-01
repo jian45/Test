@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local_Art
+  m_EditorClassIdentifier: 
+  m_GroupName: Local_Art
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5f64d80b1ef95c74783e0d1df1a897b5
+  m_SerializeEntries:
+  - m_GUID: 10cc838374ba3e544813d3e6085e2cb8
+    m_Address: Sprite/Repair/RepairSignboardAfter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22186cc423e848e46b6ede62ea6817ef
+    m_Address: Sprite/Customer/CustomerD
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d5aa4a8d09e95f44a375312021611e7
+    m_Address: Sprite/Customer/CustomerA
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74ad3674943eb154ea58d76099bdbc40
+    m_Address: Sprite/Customer/CustomerB
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80bfdb0e9105a2b4a91ad888552edea0
+    m_Address: Sprite/Repair/RepairBowlAfter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2b923a473b3e5a488e8ab96d85a3bb0
+    m_Address: Sprite/Repair/RepairBowlBefore
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa5372e66e3698a49afea6d63494735a
+    m_Address: Sprite/Repair/RepairSignboardBefore
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5dfc0121967ffc47a65c97e95fe94f7
+    m_Address: Sprite/Repair/RepairPendantLampAfter
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e2cd40175347ee24ba3fcac1e759e6d5
+    m_Address: Sprite/Customer/CustomerE
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4857436a6b12e14a84f948d88284109
+    m_Address: Sprite/Customer/CustomerC
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f77c05e75ee55374ebf2f380939186bd
+    m_Address: Sprite/Customer/Background
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7a0f1759bb1ae34fbabdcd8712fa944
+    m_Address: Sprite/Repair/RepairPendantLampBefore
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - art
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d2defd24db938524884c1d590bc8a96d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 99e4a8d0c8e11524e97a271590c3b4e3, type: 2}
+    - {fileID: 11400000, guid: c02a731ab9b0d3548b69d1f76c25d010, type: 2}

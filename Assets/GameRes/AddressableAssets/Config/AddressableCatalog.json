@@ -1,0 +1,501 @@
+{
+    "version": "1",
+    "addressRoot": "Assets/GameRes/AddressableAssets",
+    "entries": [
+        {
+            "id": "config.addressable_catalog",
+            "address": "Config/AddressableCatalog",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/AddressableCatalog.json",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "TextAsset"
+        },
+        {
+            "id": "config.event.complete_ad_event",
+            "address": "Config/Event/CompleteAdEvent",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/Event/CompleteAdEvent.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "voidEventSO"
+        },
+        {
+            "id": "config.event.complete_feedback",
+            "address": "Config/Event/CompleteFeedback",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/Event/CompleteFeedback.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "voidEventSO"
+        },
+        {
+            "id": "config.event.completed_order",
+            "address": "Config/Event/CompletedOrder",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/Event/CompletedOrder.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "voidEventSO"
+        },
+        {
+            "id": "config.event.customer_feedback",
+            "address": "Config/Event/CustomerFeedback",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/Event/CustomerFeedback.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "voidEventSO"
+        },
+        {
+            "id": "config.event.exit_results_panel_event",
+            "address": "Config/Event/ExitResultsPanelEvent",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/Event/ExitResultsPanelEvent.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "voidEventSO"
+        },
+        {
+            "id": "config.event.watch_ad",
+            "address": "Config/Event/WatchAd",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/Event/WatchAd.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "voidEventSO"
+        },
+        {
+            "id": "config.table_data.cat_table_data",
+            "address": "Config/TableData/CatTableData",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/TableData/CatTableData.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "CatTableData"
+        },
+        {
+            "id": "config.table_data.customer_table_data",
+            "address": "Config/TableData/CustomerTableData",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/TableData/CustomerTableData.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "CustomerTableData"
+        },
+        {
+            "id": "config.table_data.reward_table_data",
+            "address": "Config/TableData/RewardTableData",
+            "assetPath": "Assets/GameRes/AddressableAssets/Config/TableData/RewardTableData.asset",
+            "group": "Local_Data_Config",
+            "labels": [
+                "config",
+                "p0"
+            ],
+            "assetType": "ResultRewardData"
+        },
+        {
+            "id": "prefab.cat.blackcat",
+            "address": "Prefab/Cat/Blackcat",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Cat/Blackcat.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.cat.blue_cat",
+            "address": "Prefab/Cat/BlueCat",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Cat/BlueCat.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.coin.coin",
+            "address": "Prefab/Coin/coin",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Coin/coin.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.customer.customer1",
+            "address": "Prefab/Customer/customer1",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Customer/customer1.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.drink.lv1",
+            "address": "Prefab/Drink/Lv1",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Drink/Lv1.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.drink.lv2",
+            "address": "Prefab/Drink/Lv2",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Drink/Lv2.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.drink.lv3",
+            "address": "Prefab/Drink/Lv3",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Drink/Lv3.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.order.detail_panel",
+            "address": "Prefab/Order/DetailPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Order/DetailPanel.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.order.order",
+            "address": "Prefab/Order/Order",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Order/Order.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.order.order_item",
+            "address": "Prefab/Order/OrderItem",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Order/OrderItem.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.order.order_slot",
+            "address": "Prefab/Order/OrderSlot",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Order/OrderSlot.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.ornament.cafesign",
+            "address": "Prefab/Ornament/cafesign",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Ornament/cafesign.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.ornament.catbowl",
+            "address": "Prefab/Ornament/catbowl",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Ornament/catbowl.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.ornament.pendant_lamp",
+            "address": "Prefab/Ornament/pendantLamp",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Ornament/pendantLamp.prefab",
+            "group": "Local_Gameplay_Prefabs",
+            "labels": [
+                "gameplay",
+                "p0"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.ad_panel",
+            "address": "Prefab/Panel/AdPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/AdPanel.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.merge_board_panel",
+            "address": "Prefab/Panel/MergeBoardPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/MergeBoardPanel.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.order_card",
+            "address": "Prefab/Panel/OrderCard",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/OrderCard.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.order_list_panel",
+            "address": "Prefab/Panel/OrderListPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/OrderListPanel.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.order_panel",
+            "address": "Prefab/Panel/OrderPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/OrderPanel.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.repair_panel",
+            "address": "Prefab/Panel/RepairPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/RepairPanel.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.tip_panel",
+            "address": "Prefab/Panel/TipPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/TipPanel.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "prefab.panel.results_panel",
+            "address": "Prefab/Panel/resultsPanel",
+            "assetPath": "Assets/GameRes/AddressableAssets/Prefab/Panel/resultsPanel.prefab",
+            "group": "Local_UI_Prefabs",
+            "labels": [
+                "p0",
+                "ui"
+            ],
+            "assetType": "GameObject"
+        },
+        {
+            "id": "sprite.customer.background",
+            "address": "Sprite/Customer/Background",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Customer/Background.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.customer.customer_a",
+            "address": "Sprite/Customer/CustomerA",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Customer/CustomerA.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.customer.customer_b",
+            "address": "Sprite/Customer/CustomerB",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Customer/CustomerB.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.customer.customer_c",
+            "address": "Sprite/Customer/CustomerC",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Customer/CustomerC.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.customer.customer_d",
+            "address": "Sprite/Customer/CustomerD",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Customer/CustomerD.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.customer.customer_e",
+            "address": "Sprite/Customer/CustomerE",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Customer/CustomerE.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.repair.repair_bowl_after",
+            "address": "Sprite/Repair/RepairBowlAfter",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Repair/RepairBowlAfter.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.repair.repair_bowl_before",
+            "address": "Sprite/Repair/RepairBowlBefore",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Repair/RepairBowlBefore.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.repair.repair_pendant_lamp_after",
+            "address": "Sprite/Repair/RepairPendantLampAfter",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Repair/RepairPendantLampAfter.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.repair.repair_pendant_lamp_before",
+            "address": "Sprite/Repair/RepairPendantLampBefore",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Repair/RepairPendantLampBefore.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.repair.repair_signboard_after",
+            "address": "Sprite/Repair/RepairSignboardAfter",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Repair/RepairSignboardAfter.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite.repair.repair_signboard_before",
+            "address": "Sprite/Repair/RepairSignboardBefore",
+            "assetPath": "Assets/GameRes/AddressableAssets/Sprite/Repair/RepairSignboardBefore.png",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "Texture2D"
+        },
+        {
+            "id": "sprite_atlas.client",
+            "address": "SpriteAtlas/Client",
+            "assetPath": "Assets/GameRes/AddressableAssets/SpriteAtlas/Client.spriteatlasv2",
+            "group": "Local_Art",
+            "labels": [
+                "art",
+                "p0"
+            ],
+            "assetType": "SpriteAtlas"
+        }
+    ]
+}

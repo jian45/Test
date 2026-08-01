@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Local_Data_Config
+  m_EditorClassIdentifier: 
+  m_GroupName: Local_Data_Config
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 07b4df9e5253b1a499e3d21ab65eb68d
+  m_SerializeEntries:
+  - m_GUID: 210fd74d16a4e0e458dcabbb2629f56a
+    m_Address: Config/TableData/CatTableData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3848d7c951754fa4f83395b76559c5f7
+    m_Address: Config/TableData/RewardTableData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d89d21d1a1942a4f85d589ed5a0d92c
+    m_Address: Config/Event/ExitResultsPanelEvent
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3f1a8c1dff09b04438ba87d4b3430e01
+    m_Address: Config/Event/CustomerFeedback
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d90619b89e58bf43a59321eea12e777
+    m_Address: Config/Event/CompleteFeedback
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ad09eac95a7ed94c9e895d855c404a9
+    m_Address: Config/TableData/CustomerTableData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9efc85aedf0137f46a07b7920d550be0
+    m_Address: Config/Event/CompletedOrder
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab575e167cc08ac4589e5d494590409b
+    m_Address: Config/Event/WatchAd
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce4854785c622e246967e089eb820328
+    m_Address: Config/Event/CompleteAdEvent
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e85b1ddfeedc1d44eab6bc5bd6d17d0e
+    m_Address: Config/AddressableCatalog
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - config
+    - p0
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d2defd24db938524884c1d590bc8a96d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5b9bf62eaeb3df64d9f462df8cc0256c, type: 2}
+    - {fileID: 11400000, guid: 3c01cd794aebb4647940c7de7b75d670, type: 2}
